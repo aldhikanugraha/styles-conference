@@ -173,3 +173,11 @@ p {
   border-radius: 1px solid #dfe2e5;
   padding: 10px 30px;
 }
+/*
+  ========================================
+  Home - html
+  ========================================
+*/
+.hero {
+  padding: 20px 80px 66px 80px;
+}
